@@ -1,0 +1,7 @@
+C:\Users\aklik\source\repos\29_07_24Work5\bin\Debug\29_07_24Work5.exe.config
+C:\Users\aklik\source\repos\29_07_24Work5\bin\Debug\29_07_24Work5.exe
+C:\Users\aklik\source\repos\29_07_24Work5\bin\Debug\29_07_24Work5.pdb
+C:\Users\aklik\source\repos\29_07_24Work5\obj\Debug\29_07_24Work5.csproj.AssemblyReference.cache
+C:\Users\aklik\source\repos\29_07_24Work5\obj\Debug\29_07_24Work5.csproj.CoreCompileInputs.cache
+C:\Users\aklik\source\repos\29_07_24Work5\obj\Debug\29_07_24Work5.exe
+C:\Users\aklik\source\repos\29_07_24Work5\obj\Debug\29_07_24Work5.pdb

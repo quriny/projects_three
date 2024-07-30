@@ -1,0 +1,7 @@
+C:\Users\aklik\source\repos\28_07_24_Work2\bin\Debug\28_07_24_Work2.exe.config
+C:\Users\aklik\source\repos\28_07_24_Work2\bin\Debug\28_07_24_Work2.exe
+C:\Users\aklik\source\repos\28_07_24_Work2\bin\Debug\28_07_24_Work2.pdb
+C:\Users\aklik\source\repos\28_07_24_Work2\obj\Debug\28_07_24_Work2.csproj.AssemblyReference.cache
+C:\Users\aklik\source\repos\28_07_24_Work2\obj\Debug\28_07_24_Work2.csproj.CoreCompileInputs.cache
+C:\Users\aklik\source\repos\28_07_24_Work2\obj\Debug\28_07_24_Work2.exe
+C:\Users\aklik\source\repos\28_07_24_Work2\obj\Debug\28_07_24_Work2.pdb

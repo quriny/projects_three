@@ -1,0 +1,7 @@
+C:\Users\aklik\source\repos\29_07_24Work3\bin\Debug\29_07_24Work3.exe.config
+C:\Users\aklik\source\repos\29_07_24Work3\bin\Debug\29_07_24Work3.exe
+C:\Users\aklik\source\repos\29_07_24Work3\bin\Debug\29_07_24Work3.pdb
+C:\Users\aklik\source\repos\29_07_24Work3\obj\Debug\29_07_24Work3.csproj.AssemblyReference.cache
+C:\Users\aklik\source\repos\29_07_24Work3\obj\Debug\29_07_24Work3.csproj.CoreCompileInputs.cache
+C:\Users\aklik\source\repos\29_07_24Work3\obj\Debug\29_07_24Work3.exe
+C:\Users\aklik\source\repos\29_07_24Work3\obj\Debug\29_07_24Work3.pdb
