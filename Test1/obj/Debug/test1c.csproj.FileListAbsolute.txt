@@ -1,0 +1,7 @@
+C:\Users\aklik\source\repos\test1c\bin\Debug\test1c.exe.config
+C:\Users\aklik\source\repos\test1c\bin\Debug\test1c.exe
+C:\Users\aklik\source\repos\test1c\bin\Debug\test1c.pdb
+C:\Users\aklik\source\repos\test1c\obj\Debug\test1c.csproj.AssemblyReference.cache
+C:\Users\aklik\source\repos\test1c\obj\Debug\test1c.csproj.CoreCompileInputs.cache
+C:\Users\aklik\source\repos\test1c\obj\Debug\test1c.exe
+C:\Users\aklik\source\repos\test1c\obj\Debug\test1c.pdb

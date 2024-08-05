@@ -1,0 +1,7 @@
+C:\Users\aklik\source\repos\Pacman\obj\Debug\Pacman.csproj.AssemblyReference.cache
+C:\Users\aklik\source\repos\Pacman\obj\Debug\Pacman.csproj.CoreCompileInputs.cache
+C:\Users\aklik\source\repos\Pacman\bin\Debug\Pacman.exe.config
+C:\Users\aklik\source\repos\Pacman\bin\Debug\Pacman.exe
+C:\Users\aklik\source\repos\Pacman\bin\Debug\Pacman.pdb
+C:\Users\aklik\source\repos\Pacman\obj\Debug\Pacman.exe
+C:\Users\aklik\source\repos\Pacman\obj\Debug\Pacman.pdb

@@ -1,0 +1,7 @@
+C:\Users\aklik\source\repos\testkarvil\bin\Debug\testkarvil.exe.config
+C:\Users\aklik\source\repos\testkarvil\bin\Debug\testkarvil.exe
+C:\Users\aklik\source\repos\testkarvil\bin\Debug\testkarvil.pdb
+C:\Users\aklik\source\repos\testkarvil\obj\Debug\testkarvil.csproj.AssemblyReference.cache
+C:\Users\aklik\source\repos\testkarvil\obj\Debug\testkarvil.csproj.CoreCompileInputs.cache
+C:\Users\aklik\source\repos\testkarvil\obj\Debug\testkarvil.exe
+C:\Users\aklik\source\repos\testkarvil\obj\Debug\testkarvil.pdb
